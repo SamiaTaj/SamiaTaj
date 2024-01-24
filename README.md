@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamiaTaj
 - 👀 I’m interested in becoming a dedicated and smart Data Analyst
-- 🌱 I’m currently learning Google Data Analytics Certificate from Coursera
+- 🌱 I have completed Google Data Analytics Certificate from Coursera as well as Data Analysis with Python from Datacamp
 - 📫 You can reach me on my twitter profile @Samia_MS24 or my instagram profile @samia_zahid24
 
 <!---
